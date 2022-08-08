@@ -1,1 +1,1 @@
-mfmg
+About Variadic function on C
